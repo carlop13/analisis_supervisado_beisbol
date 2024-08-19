@@ -9,4 +9,4 @@ Este proyecto implementa un modelo de regresión lineal simple para predecir el 
 ## Cómo ejecutar el código
 1. Clona este repositorio: 
    ```bash
-   git clone https://github.com/tu_usuario/analisis_supervisado_beisbol.git
+   git clone https://github.com/carlop13/analisis_supervisado_beisbol.git
